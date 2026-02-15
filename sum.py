@@ -1,4 +1,5 @@
 a=45;
 b=35;
-c=(a+b);
-print(c);
+c=67;
+d=(a+b+c);
+print(d);
